@@ -98,13 +98,18 @@ cd EMS-FullStack
 #### Frontend Setup
 1. Navigate to the frontend directory:
    ```bash
-   cd EmployeeMgmtSystem\employee-mgmt-system
+   cd EmployeeMgmtSystem React\employee-mgmt-system
    ```
-2. Install dependencies:
+2. Navigate to the backend directory:
+   ```bash
+   cd EMS backend
+   ```
+
+3. Install dependencies:
    ```bash
    npm install
    ```
-3. Start the development server:
+4. Start the development server:
    ```bash
    npm run dev
    ```
