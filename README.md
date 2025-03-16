@@ -137,12 +137,12 @@ Contributions are welcome! Please fork this repository and create a pull request
 
 ---
 
-### Login Details
-## Admin
-- admin@example.com, password: 123
+## Login Details
+### Admin
+- `admin@example.com`, password: 123
 
-## Employee
-- employee1@example.com, password:123
+### Employee
+- `employee1@example.com`, password:123
 - employee2@example.com, password:123
 - employee3@example.com, password:123
 - employee4@example.com, password:123
